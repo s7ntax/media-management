@@ -1,5 +1,5 @@
 #!/bin/bash
-# convert mpeg2-ts files to mp4
+# remux mpeg2-ts files to mp4
 cd /mnt/2tb_hd/con/
 for a in *.ts ; do
 	f="${a[@]/%ts/mp4}"
