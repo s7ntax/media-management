@@ -1,0 +1,7 @@
+#
+# ~/.bash_profile
+#
+# aliases 
+#
+alias vidcon='~/scripts/video_convert.sh'
+alias rentv='~/scripts/rename_tv.sh'
