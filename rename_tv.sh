@@ -11,6 +11,9 @@
 # 		the correct order at the start of the original filename, disregarding
 # 		all other numbers and  maintaining the original extension.
 #
+# CREDITS:	Thanks to steeldriver for helping me with this script 
+#		http://unix.stackexchange.com/users/65304/steeldriver
+#
 
 if [ $? == 1 ]; then
 	exit
